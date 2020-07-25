@@ -1,0 +1,2 @@
+# TemeFacultativePAA
+Rezolvare teme facultative
