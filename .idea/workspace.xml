@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee446b9-edfd-4054-b13b-408f2cf0c48e" name="Default Changelist" comment="Grafuri" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,5 +31,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1595675737599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595675737599" />
   </component>
 </project>
